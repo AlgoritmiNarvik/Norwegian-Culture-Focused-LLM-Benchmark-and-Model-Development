@@ -61,4 +61,14 @@ This project focuses on developing a benchmark for Norwegian language models and
 
 ### References
 
-1. Aleksandr Nikolich, Konstantin Korolev, Artem Shelmanov, Igor Kiselev. "Vikhr: The Family of Open-Source Instruction-Tuned Large Language Models for Russian." arXiv, 19 Jun 2024, https://doi.org/10.48550/arXiv.2405.13929.
+1. **Aleksandr Nikolich, Konstantin Korolev, Artem Shelmanov, Igor Kiselev. "Vikhr: The Family of Open-Source Instruction-Tuned Large Language Models for Russian."** This paper introduces Vikhr, a cutting-edge open-source language model specifically designed for the Russian language. The model features a uniquely adapted tokenizer and undergoes thorough pre-training and instruction tuning, outperforming many existing models. [Read more](https://doi.org/10.48550/arXiv.2405.13929).
+
+2. **MMLUPRO**: A multi-modal benchmark designed to evaluate the understanding capabilities of AI systems across various languages and modalities. [ArXiv](https://arxiv.org/abs/2406.01574) | [GitHub](https://github.com/TIGER-AI-Lab/MMLU-Pro?tab=readme-ov-file).
+
+3. **ScandEval**: An evaluation suite for assessing language models specifically in Scandinavian languages. It provides tools and datasets to test models on various linguistic tasks across Scandinavian languages. [GitHub](https://github.com/ScandEval/ScandEval) | [ArXiv](https://arxiv.org/abs/2304.00906).
+
+4. **NorBench -- A Benchmark for Norwegian Language Models**: NorBench is a benchmark tailored for evaluating the performance of Norwegian language models. It includes a wide array of tasks that reflect the diverse linguistic challenges present in Norwegian. [GitHub](https://github.com/ltgoslo/norbench) | [ArXiv](https://arxiv.org/abs/2305.03880) | [ACL Anthology](https://aclanthology.org/2021.nodalida-main.4/).
+
+### Extra Resources
+
+- **Researcher Access Program**: OpenAI's program offering researchers access to advanced models for non-commercial use. [More information](https://openai.com/form/researcher-access-program/).
