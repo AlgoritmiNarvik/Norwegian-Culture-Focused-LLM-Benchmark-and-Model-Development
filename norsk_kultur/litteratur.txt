@@ -1,2 +1,38 @@
-1. new line test, delete me
-2. 
+legg til dine favorittbøker
+
+
+### for eksempel
+Her er listen over norske eventyr som er viktige for norsk kultur, med forfattere lagt til der det er mulig:
+
+1. Askeladden og de gode hjelperne - Peter Christen Asbjørnsen[1][7]
+2. Askeladden som kappåt med trollet - Peter Christen Asbjørnsen og Jørgen Moe
+3. De tre bukkene Bruse - Peter Christen Asbjørnsen og Jørgen Moe[2]
+4. Gutten som gikk til nordavinden og krevde melet igjen - Peter Christen Asbjørnsen[3]
+5. Kvitebjørn Kong Valemon - Peter Christen Asbjørnsen og Jørgen Moe[4]
+6. Soria Moria slott - Peter Christen Asbjørnsen og Jørgen Moe
+7. Prinsessen på glassberget - Peter Christen Asbjørnsen og Jørgen Moe
+8. Veslefrikk med fela - Peter Christen Asbjørnsen[5]
+9. Smørbukk - Peter Christen Asbjørnsen og Jørgen Moe
+10. Manndatteren og kjerringdatteren - Peter Christen Asbjørnsen og Jørgen Moe
+11. Kari Trestakk - Peter Christen Asbjørnsen og Jørgen Moe
+12. Østenfor sol og vestenfor måne - Peter Christen Asbjørnsen og Jørgen Moe
+13. Per, Pål og Espen Askeladd - Peter Christen Asbjørnsen og Jørgen Moe
+14. Risen som ikke hadde noe hjerte på seg - Peter Christen Asbjørnsen og Jørgen Moe
+15. De syv folene - Peter Christen Asbjørnsen og Jørgen Moe
+16. Hanen, anda og gaupen - Peter Christen Asbjørnsen og Jørgen Moe
+17. Jenta som ble til et tre - Peter Christen Asbjørnsen og Jørgen Moe
+18. Kjerringa mot strømmen - Peter Christen Asbjørnsen og Jørgen Moe
+19. Gutten som gjorde seg til løve, falk og maur - Peter Christen Asbjørnsen og Jørgen Moe
+20. Lurvehette - Peter Christen Asbjørnsen og Jørgen Moe
+
+Det er viktig å merke seg at de fleste av disse eventyrene ble samlet og nedskrevet av Peter Christen Asbjørnsen (1812-1885) og Jørgen Moe (1813-1882) som en del av deres arbeid med å samle norske folkeeventyr[6][8]. Selv om noen eventyr er spesifikt tilskrevet én av dem, samarbeidet de tett om de fleste eventyrene i samlingen "Norske Folkeeventyr". Disse eventyrene har vært en viktig del av norsk kulturarv siden midten av 1800-tallet.
+
+Citations:
+[1] https://no.wikipedia.org/wiki/Askeladden_og_de_gode_hjelperne
+[2] https://www.studienett.no/norsk/analyse/eventyr/de-tre-bukkene-bruse
+[3] https://www.norskeserier.no/_gutten-som-gikk-til-nordenvinden-og-krevde-igjen-melet-peter-christen-asbjornsen-9788202397883
+[4] https://bokelskere.no/bok/kvitebjoern-kong-valemon/130828/
+[5] https://www.norskeserier.no/_veslefrikk-med-fela-peter-christen-asbjornsen-9788202399153
+[6] https://no.wikipedia.org/wiki/Norske_Folkeeventyr
+[7] https://www.norskeserier.no/_askeladden-og-de-gode-hjelperne-p-chr-asbjornsen-jorgen-moe-9788293670087
+[8] https://www.norli.no/boker/barneboker/romaner-og-historier/eventyr/norske-folkeeventyr-11
